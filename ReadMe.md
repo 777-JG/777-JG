@@ -15,7 +15,7 @@ React / React Native
 Banco de dados (SQL e NoSQL)
 
 💼 Aberto(a) a oportunidades de estágio e colaboração!
-Entre em contato comigo pelo LinkedIn ou pelo e-mail: paivajosegabriell@gmail.com
+Entre em contato comigo pelo LinkedIn ou pelo e-mail: paivajosegabriel@gmail.com
 
 
 ## 🌐 Socials:
