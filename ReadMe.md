@@ -1,6 +1,6 @@
 # 💫 About Me:
 Olá! 👋
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca de uma oportunidade de estágio na área de tecnologia. Tenho interesse em desenvolvimento de software, estou sempre aprendendo coisas novas e gosto de colocar em prática meus conhecimentos por meio de projetos.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca de uma oportunidade de estágio na área de tecnologia. Tenho interesse em desenvolvimento de software e dados, estou sempre aprendendo coisas novas e gosto de colocar em prática meus conhecimentos por meio de projetos.
 
 Aqui no GitHub você vai encontrar alguns dos meus estudos, projetos pessoais e desafios que venho enfrentando nessa jornada como desenvolvedor(a).
 
