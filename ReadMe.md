@@ -1,5 +1,21 @@
 # 💫 About Me:
-Sou estudante de Análise e desenvolvimento de sistemas <><br>Previsão de conclusão de graduação em 06/25 <><br>Procuro estágios nas áreas de dados ou front-end </><br>
+Olá! 👋
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca de uma oportunidade de estágio na área de tecnologia. Tenho interesse em desenvolvimento de software, estou sempre aprendendo coisas novas e gosto de colocar em prática meus conhecimentos por meio de projetos.
+
+Aqui no GitHub você vai encontrar alguns dos meus estudos, projetos pessoais e desafios que venho enfrentando nessa jornada como desenvolvedor(a).
+
+📚 Tecnologias que tenho estudado:
+
+HTML, CSS, Typescript e JavaScript
+
+Git e GitHub
+
+React / React Native
+
+Banco de dados (SQL e NoSQL)
+
+💼 Aberto(a) a oportunidades de estágio e colaboração!
+Entre em contato comigo pelo LinkedIn ou pelo e-mail: paivajosegabriell@gmail.com
 
 
 ## 🌐 Socials:
