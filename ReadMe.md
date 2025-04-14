@@ -6,7 +6,7 @@ Aqui no GitHub você vai encontrar alguns dos meus estudos, projetos pessoais e 
 
 📚 Tecnologias que tenho estudado:
 
-HTML, CSS, Typescript e JavaScript
+HTML, CSS, Typescript, Flutter, Dart e JavaScript
 
 Git e GitHub
 
